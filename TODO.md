@@ -4,4 +4,4 @@
 - [x] Update Navbar.jsx: logo + branding
 - [x] Update App.jsx: page classes
 - [x] Update pages: remove icons/emojis
-- [x] Test responsive + dev server
+- [x] Test responsive +  dev server
